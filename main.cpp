@@ -20,3 +20,6 @@ int n;
 char* name = "dominic";
 sdsd
 wo lai le
+
+
+hi github
