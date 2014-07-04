@@ -16,11 +16,3 @@ int main()
 
 	return 0;
 }
-int aaa();
-int n;
-char* name = "dominic";
-sdsd
-wo lai le
-
-
-hi github
